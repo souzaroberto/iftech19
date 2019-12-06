@@ -5,13 +5,6 @@
 
 - [Mapas mentais](/mindmeister)
 
-### Exemplos de materiais com o MindMeister:
-
-#### MAC Spoofing e Flooding
-![mac-spoofing-flooding](/mindmeister/mac-spoofing-flooding/mac-spoofing-flooding.pdf)
-#### CDP Flooding
-![cdp-flooding](/mindmeister/cdp-flooding/cdp-flooding.pdf)
-
 ## Brinde final:
 
 - [Caneca SNCE](/img/caneca)
